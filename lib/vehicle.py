@@ -5,3 +5,6 @@ class Vehicle:
 
     def go(self):
         return "vrrrrrrrooom!"
+
+    def fill_up_tank(self):
+        return 'filling up!'
